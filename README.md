@@ -1,6 +1,6 @@
-# Flutter & Dart - The Complete Guide Course Resources
+# Flutter & Dart
 
-This repository contains various course resources (code snapshots, slides etc.) for our [Flutter & Dart - The Complete Guide course](https://acad.link/flutter).
+This repository contains various resources (code snapshots, slides etc.)
 
 ## How To Use
 
